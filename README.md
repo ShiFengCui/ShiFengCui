@@ -10,3 +10,6 @@
 - ⚡ Fun fact: ... -->
 
 ![Simple's github stats](https://github-readme-stats.vercel.app/api?username=ShiFengCui)
+
+### Visitors
+![Visitor Count](https://profile-counter.glitch.me/acmenlt/count.svg)
